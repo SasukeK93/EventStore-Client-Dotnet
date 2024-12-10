@@ -5,7 +5,7 @@
 	</PropertyGroup>
 	
 	<PropertyGroup>
-		<PackageId>EventStore.Client.Extensions.OpenTelemetry</PackageId>
+		<PackageId>TrogonDb.Client.Extensions.OpenTelemetry</PackageId>
 		<Description>Extensions used to facilitate instrumentation of the EventStore Client.</Description>
 	</PropertyGroup>
 	
